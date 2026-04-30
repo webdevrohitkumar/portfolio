@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { GraduationCap, Award, MapPin, Calendar } from 'lucide-react';
+import { Award, MapPin } from 'lucide-react';
 
 const About = () => {
   return (
